@@ -1,0 +1,4 @@
+seguros_app/**/migrations
+*.pyc
+__pycache__
+*.sqlite*
